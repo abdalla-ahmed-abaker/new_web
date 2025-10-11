@@ -47,7 +47,6 @@ li a{
     gap: 5%;
      height: 60%;
     width: 90%;
-    background-color: aqua;
     border-radius: 20px;
     
 }
@@ -58,7 +57,6 @@ li a{
     gap: 5%;
      height: 50%;
     width: 90%;
-    background-color: aqua;
     border-radius: 20px;
 
 }
@@ -152,6 +150,7 @@ border-radius: 2%;
 .video{
     width: 50%;
 }
+
 
 
 
