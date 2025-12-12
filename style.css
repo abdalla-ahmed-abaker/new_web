@@ -25,6 +25,13 @@ li a{
     height: 80vh;
     
 }
+.hero3{
+    background-image: url(image/banner.png);
+    background-size: 100% 85%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    
+}
 .hero1{
     background-image: url(image/imag6.png);
     background-size: 100% 85%;
@@ -150,6 +157,7 @@ border-radius: 2%;
 .video{
     width: 50%;
 }
+
 
 
 
