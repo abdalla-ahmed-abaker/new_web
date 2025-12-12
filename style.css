@@ -26,7 +26,7 @@ li a{
     
 }
 .hero3{
-    background-image: url(image/.png);
+    background-image: url(image/image.png);
     background-size: 100% 85%;
     background-repeat: no-repeat;
     height: 80vh;
@@ -157,6 +157,7 @@ border-radius: 2%;
 .video{
     width: 50%;
 }
+
 
 
 
